@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aakarshit2/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/aakarshit2/DSA/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aakarshit2/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aakarshit2/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/aakarshit2/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/aakarshit2/DSA/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aakarshit2/DSA/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aakarshit2/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
