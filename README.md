@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aakarshit2/DSA/tree/master/0014-longest-common-prefix) |
+| [0171-excel-sheet-column-number](https://github.com/aakarshit2/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aakarshit2/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aakarshit2/DSA/tree/master/0242-valid-anagram) |
 ## Trie
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/aakarshit2/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aakarshit2/DSA/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/aakarshit2/DSA/tree/master/0171-excel-sheet-column-number) |
 ## Binary Search
 |  |
 | ------- |
