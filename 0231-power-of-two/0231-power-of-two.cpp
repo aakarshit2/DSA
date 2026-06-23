@@ -4,7 +4,7 @@ public:
         if(n<=0){
             return false;
         }
-        return (n&(n-1))==0;
+        return ((static_cast<long>(pow(2,30))) % n) == 0;
     }
 
 };
