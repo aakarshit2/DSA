@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aakarshit2/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aakarshit2/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/aakarshit2/DSA/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aakarshit2/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/aakarshit2/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aakarshit2/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aakarshit2/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aakarshit2/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aakarshit2/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -72,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aakarshit2/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aakarshit2/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aakarshit2/DSA/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aakarshit2/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/aakarshit2/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aakarshit2/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
