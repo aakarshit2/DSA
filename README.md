@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aakarshit2/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/aakarshit2/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aakarshit2/DSA/tree/master/0231-power-of-two) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aakarshit2/DSA/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/aakarshit2/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/aakarshit2/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/aakarshit2/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aakarshit2/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aakarshit2/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aakarshit2/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aakarshit2/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/aakarshit2/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aakarshit2/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/aakarshit2/DSA/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
