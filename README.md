@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/aakarshit2/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aakarshit2/DSA/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aakarshit2/DSA/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aakarshit2/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
