@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/aakarshit2/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aakarshit2/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aakarshit2/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/aakarshit2/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/aakarshit2/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aakarshit2/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aakarshit2/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aakarshit2/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aakarshit2/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aakarshit2/DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/aakarshit2/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/aakarshit2/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aakarshit2/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aakarshit2/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aakarshit2/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aakarshit2/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aakarshit2/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aakarshit2/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aakarshit2/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
