@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aakarshit2/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/aakarshit2/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/aakarshit2/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/aakarshit2/DSA/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aakarshit2/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/aakarshit2/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aakarshit2/DSA/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/aakarshit2/DSA/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
