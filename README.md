@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aakarshit2/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/aakarshit2/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aakarshit2/DSA/tree/master/0415-add-strings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aakarshit2/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aakarshit2/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Trie
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aakarshit2/DSA/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aakarshit2/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
