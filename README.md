@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aakarshit2/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/aakarshit2/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aakarshit2/DSA/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/aakarshit2/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/aakarshit2/DSA/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aakarshit2/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aakarshit2/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
