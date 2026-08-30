@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/aakarshit2/DSA/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakarshit2/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aakarshit2/DSA/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aakarshit2/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aakarshit2/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aakarshit2/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aakarshit2/DSA/tree/master/3783-mirror-distance-of-an-integer) |
