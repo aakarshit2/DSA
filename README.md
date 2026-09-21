@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aakarshit2/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aakarshit2/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/aakarshit2/DSA/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/aakarshit2/DSA/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/aakarshit2/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aakarshit2/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aakarshit2/DSA/tree/master/0263-ugly-number) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aakarshit2/DSA/tree/master/0048-rotate-image) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/aakarshit2/DSA/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
