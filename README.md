@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/aakarshit2/DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/aakarshit2/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aakarshit2/DSA/tree/master/0415-add-strings) |
+| [0593-valid-square](https://github.com/aakarshit2/DSA/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakarshit2/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aakarshit2/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aakarshit2/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -264,4 +265,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/aakarshit2/DSA/tree/master/0223-rectangle-area) |
+| [0593-valid-square](https://github.com/aakarshit2/DSA/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
