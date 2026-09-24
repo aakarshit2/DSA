@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aakarshit2/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aakarshit2/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aakarshit2/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/aakarshit2/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aakarshit2/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aakarshit2/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aakarshit2/DSA/tree/master/3783-mirror-distance-of-an-integer) |
