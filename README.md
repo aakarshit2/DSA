@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aakarshit2/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/aakarshit2/DSA/tree/master/0371-sum-of-two-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/aakarshit2/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aakarshit2/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aakarshit2/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aakarshit2/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/aakarshit2/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aakarshit2/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aakarshit2/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aakarshit2/DSA/tree/master/3783-mirror-distance-of-an-integer) |
