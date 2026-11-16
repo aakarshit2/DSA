@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aakarshit2/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakarshit2/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aakarshit2/DSA/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/aakarshit2/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/aakarshit2/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aakarshit2/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/aakarshit2/DSA/tree/master/0228-summary-ranges) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aakarshit2/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aakarshit2/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/aakarshit2/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/aakarshit2/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/aakarshit2/DSA/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/aakarshit2/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aakarshit2/DSA/tree/master/0258-add-digits) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aakarshit2/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/aakarshit2/DSA/tree/master/0258-add-digits) |
 ## Stack
 |  |
@@ -288,4 +291,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aakarshit2/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aakarshit2/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aakarshit2/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aakarshit2/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aakarshit2/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
