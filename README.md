@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aakarshit2/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/aakarshit2/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aakarshit2/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aakarshit2/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/aakarshit2/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aakarshit2/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aakarshit2/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aakarshit2/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/aakarshit2/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/aakarshit2/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aakarshit2/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aakarshit2/DSA/tree/master/0268-missing-number) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aakarshit2/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/aakarshit2/DSA/tree/master/0078-subsets) |
 ## Enumeration
 |  |
 | ------- |
