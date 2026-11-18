@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aakarshit2/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aakarshit2/DSA/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/aakarshit2/DSA/tree/master/0306-additive-number) |
+| [0316-remove-duplicate-letters](https://github.com/aakarshit2/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/aakarshit2/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakarshit2/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/aakarshit2/DSA/tree/master/0412-fizz-buzz) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aakarshit2/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aakarshit2/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/aakarshit2/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aakarshit2/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/aakarshit2/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aakarshit2/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aakarshit2/DSA/tree/master/0055-jump-game) |
+| [0316-remove-duplicate-letters](https://github.com/aakarshit2/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Linked List
 |  |
 | ------- |
@@ -388,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aakarshit2/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/aakarshit2/DSA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
