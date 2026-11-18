@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/aakarshit2/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aakarshit2/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aakarshit2/DSA/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/aakarshit2/DSA/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/aakarshit2/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakarshit2/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/aakarshit2/DSA/tree/master/0412-fizz-buzz) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aakarshit2/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/aakarshit2/DSA/tree/master/0078-subsets) |
+| [0306-additive-number](https://github.com/aakarshit2/DSA/tree/master/0306-additive-number) |
 ## Enumeration
 |  |
 | ------- |
