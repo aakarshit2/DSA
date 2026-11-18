@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aakarshit2/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/aakarshit2/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/aakarshit2/DSA/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/aakarshit2/DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/aakarshit2/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aakarshit2/DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/aakarshit2/DSA/tree/master/0202-happy-number) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aakarshit2/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/aakarshit2/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aakarshit2/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/aakarshit2/DSA/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/aakarshit2/DSA/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aakarshit2/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String Matching
