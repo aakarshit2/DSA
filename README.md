@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/aakarshit2/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakarshit2/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aakarshit2/DSA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/aakarshit2/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aakarshit2/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/aakarshit2/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aakarshit2/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/aakarshit2/DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/aakarshit2/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aakarshit2/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/aakarshit2/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aakarshit2/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/aakarshit2/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aakarshit2/DSA/tree/master/0344-reverse-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aakarshit2/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aakarshit2/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/aakarshit2/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/aakarshit2/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aakarshit2/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aakarshit2/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/aakarshit2/DSA/tree/master/0223-rectangle-area) |
