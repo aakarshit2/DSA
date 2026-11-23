@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aakarshit2/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/aakarshit2/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aakarshit2/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aakarshit2/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aakarshit2/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aakarshit2/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/aakarshit2/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aakarshit2/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aakarshit2/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aakarshit2/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aakarshit2/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/aakarshit2/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aakarshit2/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aakarshit2/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aakarshit2/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aakarshit2/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/aakarshit2/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
 |  |
@@ -395,4 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aakarshit2/DSA/tree/master/0316-remove-duplicate-letters) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aakarshit2/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aakarshit2/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
